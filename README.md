@@ -1,7 +1,7 @@
 # albums and artists i enjoy
 ## (sorted alphabetically)
 ## last updated: 6/2/2021
-####1-900-9099-CRY - [2018] 1-900-9099-KONBINI
+#### 1-900-9099-CRY - [2018] 1-900-9099-KONBINI
 ####1nonly - [2020-08-20] Bunny Girl
 ####2814 - [2015] 新しい日の誕生
 ####Adele - [2012] Skyfall
