@@ -1,6 +1,6 @@
 # albums and artists i enjoy
 ## (sorted alphabetically)
-## last updated: 6/2/2021
+## last updated: 6/10/2021
 #### 1-900-9099-CRY - [2018] 1-900-9099-KONBINI
 #### 1nonly - [2020-08-20] Bunny Girl
 #### 2814 - [2015] 新しい日の誕生
@@ -59,6 +59,10 @@
 #### Daft Punk - [2013-05-17] Random Access Memories
 #### Dan Mason ダン·メイソン - [2016] Summer Love
 #### Deadmau5 - [2008] Ghosts 'n' Stuff
+#### Deadmau5 - [2008] Random Album Title
+#### Deadmau5 - [2010] 4x4=12
+#### deadmau5 - [2011] Meowingtons Hax 2k11 TORONTO
+#### deadmau5 - [2012] > Album Title Goes Here <
 #### Deadmau5 - [2013] Avaritia
 #### Deadmau5 - [2014] 5 years of mau5
 #### Deadmau5 - [2020] Bridged By A Lightwave
@@ -74,6 +78,7 @@
 #### desert sand feels warm at night - [2020] 『l』『o』『n』『e』『l』『y』
 #### desert sand feels warm at night - [2020] アストラル
 #### Desired - [2017-01-08] Lovestory
+#### Dexys Midnight Runners - [2019-12-27] Too Rye Ay
 #### Disconscious - [2013] Hologram Plaza
 #### Dyro, Conro - [2021-05-21] Memory Bank
 #### ECO VIRTUAL - [2013] ATMOSPHERES 第1
@@ -92,6 +97,7 @@
 #### Gerry Mulligan - [1963-01-01] Night Lights (Expanded Edition)
 #### Golden Living Room / t e l e p a t h テレパシー能力者 - [2015] Virtual Phantasy 2097
 #### Gorillaz - [2014] Demon Days
+#### Gorillaz - [2014] Gorillaz
 #### Gorillaz - [2014] Plastic Beach
 #### Gorillaz - The Now Now
 #### Greens On Toast - [2019-09-30] MSG, Vol. 1
@@ -132,8 +138,10 @@
 #### Kero Kero Bonito - [2019] Civilisation I
 #### KMRU - [2020] drawing water
 #### Knxwledge. - [2020] WT16.8_
+#### Kuru, kurtains - [2020-07-04] clueless (feat. kurtains)
 #### Kyle - [2014-10-15] Don't Wanna Fall In Love
 #### LensCorp™ International - [2014] Online™
+#### Limousine - [2020] ΩMEGA MALL X
 #### Lindsheaven Virtual Plaza - [2013] Daily Night Euphoria EP
 #### Lindsheaven Virtual Plaza - [2013] In Construction
 #### Lindsheaven Virtual Plaza - [2020] Rainforest Hill (I + II)
@@ -151,6 +159,7 @@
 #### meat computer - [2020-08-02] team edward
 #### MGMT - [2008] Oracular Spectacular
 #### MGMT - [2018] Little Dark Age
+#### Michael Jackson - [1983] Off The Wall
 #### Mikazuki BIGWAVE - [2020-11-20] MY YUME DIARY
 #### MIMIDEATH - [2020] effective.  Power لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ 冗
 #### Moe Shop - [2015] Pure Pure
@@ -193,6 +202,7 @@
 #### Sewerslvt - [2020-04-17] Worthlessness Selected
 #### Sewerslvt - [2020-10-17] Cyberia Lyr1+2=3
 #### Sewerslvt - [2020-11-02] Sewer//slvt
+#### Sewerslvt - [2021-06-06] Skitzofrenia Simulation
 #### Siouxxie - [2020-06-17] masquerade
 #### Slowdive - [1994] Souvlaki
 #### Smoke & Vapor - [2019] 否 Place
@@ -235,14 +245,17 @@
 #### The Wombats - [2015-01-16] Greek Tragedy
 #### Tiny Little Houses - [2016-10-07] Snow Globe
 #### TOWERS - [2019] TOWERS
+#### Trippie Redd - [2021] Miss The Rage
 #### Unknown Caller - [2021] Midnight Deluxe
 #### Vague002 - [2015-07-07] Girl Crying
 #### Vague002 - [2019-08-04] Terminal Aware
 #### VAPERROR - [2014-06-02] Mana Pool
 #### Various Artists - [2006-03-13] The Incredibles Original Soundtrack
+#### Various Artists - [2012-07-24] Tesoros De Colección - Para el más Grande Amor
 #### Various Artists - [2013] Digital Office One
 #### Various Artists - [2013-08-13] Portals Summer II
 #### Various Artists - [2014] ANNIVERSARY VOL.1
+#### Various Artists - [2017-11-03] Top Of The Pops - Dance
 #### Various Artists - [2020-10-02] Visions and Prophetic Dreams: A Dreampunk Compilation Vol. 1
 #### Various Artists - Mario Kart 8
 #### vcr-classique - [2018] Floridacatalogue ／／ DMT​​-​​591
