@@ -1,12 +1,14 @@
-# albums and artists i enjoy
+# albums and artists i may or may not enjoy
 ## (sorted alphabetically)
-## last updated: 6/10/2021
+## last updated: 6/26/2021
 #### 1-900-9099-CRY - [2018] 1-900-9099-KONBINI
 #### 1nonly - [2020-08-20] Bunny Girl
 #### 2814 - [2015] 新しい日の誕生
+#### ABBA - [1992] Gold: Greatest Hits
 #### Adele - [2012] Skyfall
 #### Adrianwave - [2016-06-09] Take Care of Yourself
 #### ALDN - [2020-05-04] glittr
+#### aldn - [2020-09-22] precious
 #### Alice Gas - [2019-12-16] Sorry 4 Being Famous
 #### Amine - [2017] Good For You
 #### Amine - [2018] REEL IT IN
@@ -29,16 +31,19 @@
 #### bl00dwave - [2014] hotel vibes
 #### Blank Banshee - [2012] Blank Banshee 0
 #### Blank Banshee - [2013] Blank Banshee 1
+#### Bo Burnham - [2021] Inside (The Songs)
 #### bôa - [1998] DUVET
 #### bôa - [1999] tall snake ep
 #### Boards of Canada - [2013] Tomorrow's Harvest
 #### ｂｏｄｙｌｉｎｅ - [2018] ファンタジーモニター
+#### Bruno Mars - [2016] XXIVK Magic
 #### C C:\MISFORTUNE - [2020] Sad Old Year
 #### C418 - [2013-11-09] Minecraft, Volume Beta
 #### C418 - [2015-08-21] Minecraft, Volume Alpha
 #### Car Seat Headrest - [2018] Twin Fantasy
 #### channel select - [2019] sails
 #### channel select - [2020] NEW AIR
+#### Charles Mingus - [1994] Oh Yeah
 #### Childhood - [2013] Childhood
 #### chris††† - [2016] no lives matter
 #### chris††† - [2016] no lives matter bside
@@ -52,6 +57,8 @@
 #### Crywank - [2015] Don't Piss on Me, I'm Already Dead
 #### Crywank - [2015] Tomorrow Is Nearly Yesterday and Everyday Is Stupid
 #### Current Joys - [2018-03-02] A Different Age
+#### cvrsed - [2020] ?
+#### cvrsed - [2020] oxymoronic.txtfiles
 #### Daft Punk - [1997-01-16] Homework
 #### Daft Punk - [2001] Harder Better Faster Stronger
 #### Daft Punk - [2001-03-07] Discovery
@@ -65,6 +72,7 @@
 #### deadmau5 - [2012] > Album Title Goes Here <
 #### Deadmau5 - [2013] Avaritia
 #### Deadmau5 - [2014] 5 years of mau5
+#### deadmau5 - [2014-06-17] while(1<2)
 #### Deadmau5 - [2020] Bridged By A Lightwave
 #### death's dynamic shroud - [2015] I'll Try Living Like This
 #### death's dynamic shroud - [2016] CLASSROOM SEXXTAPE
@@ -77,6 +85,7 @@
 #### desert sand feels warm at night - [2019] 濃霧
 #### desert sand feels warm at night - [2020] 『l』『o』『n』『e』『l』『y』
 #### desert sand feels warm at night - [2020] アストラル
+#### desert sand feels warm at night & IndyAdvant - [2020] アストラル
 #### Desired - [2017-01-08] Lovestory
 #### Dexys Midnight Runners - [2019-12-27] Too Rye Ay
 #### Disconscious - [2013] Hologram Plaza
@@ -86,6 +95,7 @@
 #### El Huervo - [2012-04-17] Do Not Lay Waste To Homes...
 #### Electric Specter 電妖怪 - [2017] Arctic Circuitry
 #### Elliott Smith - [2017-03-10] Either/Or (Expanded Edition)
+#### Ericdoa - [2020-09-30] hi, i'm dante
 #### ev.exi - [2019] Forget
 #### Ezekiel - [2020-04-08] ezekiel singles '18-'20
 #### Foo Fighters - [1997] The Colour And The Shape
@@ -94,6 +104,7 @@
 #### g h o s t i n g - [2014] Telenights
 #### g h o s t i n g - [2018-05-03] Telenights
 #### gaburyu - [2020-08-30] 条理加速の片隅、彼女と想像の中身に関する行方
+#### George Clanton - [2020] Slide
 #### Gerry Mulligan - [1963-01-01] Night Lights (Expanded Edition)
 #### Golden Living Room / t e l e p a t h テレパシー能力者 - [2015] Virtual Phantasy 2097
 #### Gorillaz - [2014] Demon Days
@@ -117,6 +128,7 @@
 #### Hotel Pools - [2019-01-25] Nightshade
 #### Hotel Pools - [2020-07-31] Still
 #### Iacon - [2016] d​:​/​death​/​within​/​ourselv​.​exe ／／ DMT​​​-​​​298
+#### Imani - [2021-05-20] racecar
 #### Infinity Frequencies - [2013] Computer Death
 #### INTERNET CLUB - [2012] FINAL TEARS
 #### INTERNET CLUB - [2012] REDEFINING THE WORKPLACE
@@ -128,9 +140,12 @@
 #### JACKBOYS - JACKBOYS
 #### jagger finn - [2019-08-28] Triplbt Theme
 #### James Ferraro - [2013-04-15] Far Side Virtual
+#### Jamiroquai - [1996] Travelling Without Moving
 #### Joe Parillo Ensemble - [1987] Clouds
+#### Joji - [2017] Chloe Burbank Vol. 1
 #### Joy Division - [2007-09-10] Unknown Pleasures (Collector's Edition)
 #### Julien Baker - [2015-10-23] Sprained Ankle
+#### Justice - [2007] Justice
 #### ＫＡＳＨ Ｎ＇ ＫＡＲＲＹ ＳＨＯＰＰＩＮＧ ＣＡＲＴ - [2017] AM Transport Company (1AM-5AM) ／／ DMT​-​447
 #### Kero Kero Bonito - [2016] Bonito Generation
 #### Kero Kero Bonito - [2018] Time ‘n’ Place
@@ -138,8 +153,10 @@
 #### Kero Kero Bonito - [2019] Civilisation I
 #### KMRU - [2020] drawing water
 #### Knxwledge. - [2020] WT16.8_
+#### kurtains - [2021-02-20] axel ocelot
 #### Kuru, kurtains - [2020-07-04] clueless (feat. kurtains)
 #### Kyle - [2014-10-15] Don't Wanna Fall In Love
+#### last words - [2021] BECKONING VOICES
 #### LensCorp™ International - [2014] Online™
 #### Limousine - [2020] ΩMEGA MALL X
 #### Lindsheaven Virtual Plaza - [2013] Daily Night Euphoria EP
@@ -148,15 +165,18 @@
 #### LSD and the Search for God - [2007-01-16] LSD and the Search for God
 #### Lunacast - [2020] Megafluid Corporation
 #### Luxury Elite - [2015] World Class
-#### Luxury Elite And Saint Pepsi - [2019] Late Night Delight
+#### M y s t e r yミステリー & desert sand feels warm at night - [2019] 人生は幻想です
 #### M.I.A. - [2008] Paper Planes
+#### m1v - [2021-03-19] deathbed
 #### M83 - [2011-10-17] Hurry up, We're Dreaming
 #### Machine Girl - [2015-07-28] Gemini
 #### Machine Girl - [2017-09-22] …Because I’m Young Arrogant and Hate Everything You Stand For
 #### MACINTOSH PLUS - [2017] FLORAL SHOPPE (OESB VINYL LP DOWNLOAD VERSION)
 #### Macross 82-99 - [2014-05-07] A Millions Miles Away
 #### Macross 82-99 - [2015-10-21] CHAM!
+#### Madvillain - [2004] Madvillainy
 #### meat computer - [2020-08-02] team edward
+#### Metric - [2021] Black Sheep (Brie Larson Vocal Version)
 #### MGMT - [2008] Oracular Spectacular
 #### MGMT - [2018] Little Dark Age
 #### Michael Jackson - [1983] Off The Wall
@@ -165,7 +185,9 @@
 #### Moe Shop - [2015] Pure Pure
 #### Mount Shrine - [2020-03-17] Shortwave Ruins
 #### Muzak - Mall of 1974
-#### My Bloody Valentine - m b v
+#### My Bloody Valentine - [2018] Loveless
+#### My Bloody Valentine - [2021] m b v
+#### N.W.A - [1999] Straight Outta Compton
 #### Nakaido "Chabo" Reichi - [1998] serial experiments lain Soundtrack
 #### Negative XP - [2019-09-30] MSG, Vol. 1
 #### NINENINENINE - [2019] Echoes From the Concourse
@@ -173,13 +195,19 @@
 #### Nintendo - [2011] Mario Kart Wii Platinum Soundtrack
 #### Nmesh - [2014-02-27] Dream Sequins®
 #### Nouveau Life™ - [2014] New World™
+#### Olivia Rodrigo - [2021] SOUR
 #### OSCOB / Digital Sex - [2016] OVERGROWTH
 #### P4rkr - [2019-11-11] a punk song about sobriety and paranoia
 #### P4rkr - [2020-02-27] bad idea (feat. blackwinterwells)
 #### Panchiko - [2020] D>E>L>U>X>E>M>E>T>A>L
+#### Paramore - [2013] Paramore
 #### Pixies - [1988] Surfer Rosa
+#### Portugal. The Man - [2017-06-16] Woodstock
+#### Post Malone - [2018] beerbongs & bentleys
+#### Puma Blue - [2021-05-13] A Late Night Special EP
 #### Pyravid - [2014-09-04] Googleplex Bionetwork
 #### Radiohead - [1995-03-13] The Bends
+#### Radiohead - [1996] Street Spirit (Fade Out)
 #### Radiohead - [2000] Kid A
 #### Radiohead - [2001] Amnesiac
 #### Radiohead - [2007-12-28] In Rainbows
@@ -200,10 +228,15 @@
 #### Sewerslvt - [2020] Draining Love Story
 #### Sewerslvt - [2020] IRLY
 #### Sewerslvt - [2020-04-17] Worthlessness Selected
+#### Sewerslvt - [2020-07-21] Cyberia lyr3
 #### Sewerslvt - [2020-10-17] Cyberia Lyr1+2=3
+#### Sewerslvt - [2020-10-17] Newlove
 #### Sewerslvt - [2020-11-02] Sewer//slvt
+#### Sewerslvt - [2020-12-04] The World Is Fvcked
 #### Sewerslvt - [2021-06-06] Skitzofrenia Simulation
 #### Siouxxie - [2020-06-17] masquerade
+#### Siouxxie - [2020-09-11] skinwalker
+#### Skrillex - [2010] Scary Monsters and Nice Sprites
 #### Slowdive - [1994] Souvlaki
 #### Smoke & Vapor - [2019] 否 Place
 #### Sodaboy64 - [2019-09-30] MSG, Vol. 1
@@ -217,6 +250,8 @@
 #### SUPERSEX420 x TENDENCIES - [2019] Split EP (Deluxe)
 #### t e l e p a t h テレパシー能力者 - [2014] 現実を超えて
 #### Talking Heads - [1980] Remain In Light {2005 Remaster}
+#### Talking Heads - [1984] Stop Making Sense
+#### Tally Hall - [2021] Marvin's Marvelous Mechanical Museum
 #### Teen Suicide - [2015-10-07] i will be my own hell because there is a devil inside my body
 #### Temporal孤独 - [2019] Wander
 #### Temporal孤独 - [2020] Lost
@@ -238,24 +273,30 @@
 #### The Fray - [2006-07-07] How To Save A Life
 #### The Maccabees - [2007-04-16] Colour It In (Deluxe)
 #### The Marías - [2017-11-03] Superclean, Vol. I
+#### The Marías - [2018] Superclean Vol. II
+#### The Marias - [2021] Hush
 #### The Smashing Pumpkins - [1999] Machina / The Machines Of God
 #### The Smiths - [1988] The Queen Is Dead (Edition Studio Masters)
+#### The Smiths - [2001] Hatful of Hollow
 #### The Smiths - [2001] Louder Than Bombs
 #### The Smiths - [2001-06-26] Strangeways, Here We Come
 #### The Wombats - [2015-01-16] Greek Tragedy
+#### They Might Be Giants - [2001] Mink Car
 #### Tiny Little Houses - [2016-10-07] Snow Globe
 #### TOWERS - [2019] TOWERS
 #### Trippie Redd - [2021] Miss The Rage
+#### Tyler, The Creator - [2021] LUMBERJACK
+#### Tyler, The Creator - [2021-06-25] CALL ME IF YOU GET LOST
 #### Unknown Caller - [2021] Midnight Deluxe
 #### Vague002 - [2015-07-07] Girl Crying
 #### Vague002 - [2019-08-04] Terminal Aware
 #### VAPERROR - [2014-06-02] Mana Pool
+#### Various Artists - [2001] Disney's Greatest Volume 2
 #### Various Artists - [2006-03-13] The Incredibles Original Soundtrack
-#### Various Artists - [2012-07-24] Tesoros De Colección - Para el más Grande Amor
+#### Various Artists - [2009] Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)
 #### Various Artists - [2013] Digital Office One
 #### Various Artists - [2013-08-13] Portals Summer II
 #### Various Artists - [2014] ANNIVERSARY VOL.1
-#### Various Artists - [2017-11-03] Top Of The Pops - Dance
 #### Various Artists - [2020-10-02] Visions and Prophetic Dreams: A Dreampunk Compilation Vol. 1
 #### Various Artists - Mario Kart 8
 #### vcr-classique - [2018] Floridacatalogue ／／ DMT​​-​​591
@@ -265,6 +306,7 @@
 #### VHS LOGOS - [2014] Mantra
 #### waterfront dining - [2014] NOICE すてきな
 #### waterfront dining & 猫 シ Corp. - [2015] With Love 愛を込めて
+#### WAV & desert sand feels warm at night - [2020] 『l』『o』『n』『e』『l』『y』
 #### Weezer - [1994] Weezer (Blue Album)
 #### Weezer - [2010-11-02] Pinkerton - Deluxe Edition
 #### werewolf hair - [2019-09-30] MSG, Vol. 1
@@ -282,6 +324,7 @@
 #### 식료품groceries - [2021] HOUSEWARES
 #### 懐かし2002津波 - [2015] ﻿ＣＯＭＰＵＴＥＲ  ＨＡＺＥ ／／ DMT-127
 #### 死夢VANITY - [2014] f a n t a s y 真夜中のアパート
+#### 沙漠里的沙子晚上很温暖 - [2019] Tomorrow, 2096
 #### 猫 シ Corp. - [2014] HIRAETH
 #### 猫 シ Corp. - [2014] Palm Mall
 #### 猫 シ Corp. - [2016] NEWS AT 11
