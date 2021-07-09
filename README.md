@@ -2,7 +2,6 @@
 ## (sorted alphabetically)
 ## last updated: 6/26/2021
 #### 1-900-9099-CRY - [2018] 1-900-9099-KONBINI
-#### 1nonly - [2020-08-20] Bunny Girl
 #### 2814 - [2015] 新しい日の誕生
 #### ABBA - [1992] Gold: Greatest Hits
 #### Adele - [2012] Skyfall
@@ -31,12 +30,14 @@
 #### bl00dwave - [2014] hotel vibes
 #### Blank Banshee - [2012] Blank Banshee 0
 #### Blank Banshee - [2013] Blank Banshee 1
+#### Blues Brothers - [1978] Briefcase Full Of Blues
 #### Bo Burnham - [2021] Inside (The Songs)
 #### bôa - [1998] DUVET
 #### bôa - [1999] tall snake ep
 #### Boards of Canada - [2013] Tomorrow's Harvest
 #### ｂｏｄｙｌｉｎｅ - [2018] ファンタジーモニター
 #### Bruno Mars - [2016] XXIVK Magic
+#### Burial - [2007] Untrue
 #### C C:\MISFORTUNE - [2020] Sad Old Year
 #### C418 - [2013-11-09] Minecraft, Volume Beta
 #### C418 - [2015-08-21] Minecraft, Volume Alpha
@@ -52,6 +53,7 @@
 #### chris††† - [2020] alone online
 #### Chuck Person - [2010] Chuck Person's Eccojams Vol. 1 
 #### Cobalt Road - [2015] Purgatory
+#### Cocteau Twins - [2014] Heaven or Las Vegas
 #### CRT麻痺 - [2021] Ｃｒｙｓｔａｌ Ｈａｚｅ
 #### Crywank - [2012] Narcissist On The Verge Of A Nervous Breakdown
 #### Crywank - [2015] Don't Piss on Me, I'm Already Dead
@@ -59,6 +61,7 @@
 #### Current Joys - [2018-03-02] A Different Age
 #### cvrsed - [2020] ?
 #### cvrsed - [2020] oxymoronic.txtfiles
+#### cvrsed - [2021] ?
 #### Daft Punk - [1997-01-16] Homework
 #### Daft Punk - [2001] Harder Better Faster Stronger
 #### Daft Punk - [2001-03-07] Discovery
@@ -110,7 +113,7 @@
 #### Gorillaz - [2014] Demon Days
 #### Gorillaz - [2014] Gorillaz
 #### Gorillaz - [2014] Plastic Beach
-#### Gorillaz - The Now Now
+#### Gorillaz - [2018] The Now Now
 #### Greens On Toast - [2019-09-30] MSG, Vol. 1
 #### haircuts for men - [2015] 我々はすべてしたい ／／ DMT-102
 #### Hallmark '87 - [2018] A T R I U M ／／ DMT-469
@@ -130,6 +133,7 @@
 #### Iacon - [2016] d​:​/​death​/​within​/​ourselv​.​exe ／／ DMT​​​-​​​298
 #### Imani - [2021-05-20] racecar
 #### Infinity Frequencies - [2013] Computer Death
+#### Insertmyinnerfeelings - [2020] Super Sprinkle Brawlers
 #### INTERNET CLUB - [2012] FINAL TEARS
 #### INTERNET CLUB - [2012] REDEFINING THE WORKPLACE
 #### INTERNET CLUB - [2012] VANISHING VISION
@@ -142,10 +146,12 @@
 #### James Ferraro - [2013-04-15] Far Side Virtual
 #### Jamiroquai - [1996] Travelling Without Moving
 #### Joe Parillo Ensemble - [1987] Clouds
+#### John Coltrane - [2012] Blue Train
 #### Joji - [2017] Chloe Burbank Vol. 1
 #### Joy Division - [2007-09-10] Unknown Pleasures (Collector's Edition)
 #### Julien Baker - [2015-10-23] Sprained Ankle
 #### Justice - [2007] Justice
+#### Kanye West - [2010] My Beautiful Dark Twisted Fantasy
 #### ＫＡＳＨ Ｎ＇ ＫＡＲＲＹ ＳＨＯＰＰＩＮＧ ＣＡＲＴ - [2017] AM Transport Company (1AM-5AM) ／／ DMT​-​447
 #### Kero Kero Bonito - [2016] Bonito Generation
 #### Kero Kero Bonito - [2018] Time ‘n’ Place
@@ -156,7 +162,9 @@
 #### kurtains - [2021-02-20] axel ocelot
 #### Kuru, kurtains - [2020-07-04] clueless (feat. kurtains)
 #### Kyle - [2014-10-15] Don't Wanna Fall In Love
+#### Labrinth - [2019] Euphoria (Original Score from the HBO Series)
 #### last words - [2021] BECKONING VOICES
+#### Led Zeppelin - [1971] Led Zeppelin IV (HD Remastered Edition)
 #### LensCorp™ International - [2014] Online™
 #### Limousine - [2020] ΩMEGA MALL X
 #### Lindsheaven Virtual Plaza - [2013] Daily Night Euphoria EP
@@ -168,6 +176,7 @@
 #### M y s t e r yミステリー & desert sand feels warm at night - [2019] 人生は幻想です
 #### M.I.A. - [2008] Paper Planes
 #### m1v - [2021-03-19] deathbed
+#### M83 - [2005] Before The Dawn Heals Us
 #### M83 - [2011-10-17] Hurry up, We're Dreaming
 #### Machine Girl - [2015-07-28] Gemini
 #### Machine Girl - [2017-09-22] …Because I’m Young Arrogant and Hate Everything You Stand For
@@ -179,8 +188,10 @@
 #### Metric - [2021] Black Sheep (Brie Larson Vocal Version)
 #### MGMT - [2008] Oracular Spectacular
 #### MGMT - [2018] Little Dark Age
+#### Michael Jackson - [1982] Thriller
 #### Michael Jackson - [1983] Off The Wall
 #### Mikazuki BIGWAVE - [2020-11-20] MY YUME DIARY
+#### Miles Davis - [2021] Kind Of Blue
 #### MIMIDEATH - [2020] effective.  Power لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ 冗
 #### Moe Shop - [2015] Pure Pure
 #### Mount Shrine - [2020-03-17] Shortwave Ruins
@@ -196,11 +207,13 @@
 #### Nmesh - [2014-02-27] Dream Sequins®
 #### Nouveau Life™ - [2014] New World™
 #### Olivia Rodrigo - [2021] SOUR
+#### Oneohtrix Point Never - [2020] Magic Oneohtrix Point Never
 #### OSCOB / Digital Sex - [2016] OVERGROWTH
 #### P4rkr - [2019-11-11] a punk song about sobriety and paranoia
 #### P4rkr - [2020-02-27] bad idea (feat. blackwinterwells)
 #### Panchiko - [2020] D>E>L>U>X>E>M>E>T>A>L
 #### Paramore - [2013] Paramore
+#### Pink Floyd - [1973] The Dark Side Of The Moon
 #### Pixies - [1988] Surfer Rosa
 #### Portugal. The Man - [2017-06-16] Woodstock
 #### Post Malone - [2018] beerbongs & bentleys
@@ -212,6 +225,7 @@
 #### Radiohead - [2001] Amnesiac
 #### Radiohead - [2007-12-28] In Rainbows
 #### Radiohead - [2016] A Moon Shaped Pool
+#### Radiohead - [2016] Spectre
 #### Radiohead - [2017] OK Computer OKNOTOK 1997 2017
 #### Red House Painters - [1992-09-14] Down Colorful Hill
 #### Red House Painters - [1993-05-24] Red House Painters I
@@ -223,6 +237,7 @@
 #### Rosemary Fairweather - [2016-06-03] Chemicals
 #### S3RL - [2015-03-04] R4v3 B0y (feat. Krystal)
 #### S3RL - [2019-04-01] Old Skool Masters - S3RL
+#### SAINT PEPSI - [2012] WORLD TOUR
 #### SAINT PEPSI - [2013] Hit Vibes
 #### Sewerslvt - [2019-07-14] Drowning in the Sewer
 #### Sewerslvt - [2020] Draining Love Story
@@ -251,6 +266,7 @@
 #### t e l e p a t h テレパシー能力者 - [2014] 現実を超えて
 #### Talking Heads - [1980] Remain In Light {2005 Remaster}
 #### Talking Heads - [1984] Stop Making Sense
+#### Talking Heads - [1992] Once in a Lifetime - The Best Of
 #### Tally Hall - [2021] Marvin's Marvelous Mechanical Museum
 #### Teen Suicide - [2015-10-07] i will be my own hell because there is a devil inside my body
 #### Temporal孤独 - [2019] Wander
@@ -276,6 +292,7 @@
 #### The Marías - [2018] Superclean Vol. II
 #### The Marias - [2021] Hush
 #### The Smashing Pumpkins - [1999] Machina / The Machines Of God
+#### The Smiths - [1985] The Sound Of The Smiths (CD1)
 #### The Smiths - [1988] The Queen Is Dead (Edition Studio Masters)
 #### The Smiths - [2001] Hatful of Hollow
 #### The Smiths - [2001] Louder Than Bombs
@@ -283,6 +300,7 @@
 #### The Wombats - [2015-01-16] Greek Tragedy
 #### They Might Be Giants - [2001] Mink Car
 #### Tiny Little Houses - [2016-10-07] Snow Globe
+#### tirestires - [2015-11-20] shadowdog
 #### TOWERS - [2019] TOWERS
 #### Trippie Redd - [2021] Miss The Rage
 #### Tyler, The Creator - [2021] LUMBERJACK
@@ -297,6 +315,8 @@
 #### Various Artists - [2013] Digital Office One
 #### Various Artists - [2013-08-13] Portals Summer II
 #### Various Artists - [2014] ANNIVERSARY VOL.1
+#### Various Artists - [2017-11-03] Top Of The Pops - Dance
+#### Various Artists - [2019-05-10] Walt Disney World Official Album
 #### Various Artists - [2020-10-02] Visions and Prophetic Dreams: A Dreampunk Compilation Vol. 1
 #### Various Artists - Mario Kart 8
 #### vcr-classique - [2018] Floridacatalogue ／／ DMT​​-​​591
@@ -331,6 +351,7 @@
 #### 猫 シ Corp. - [2016] ショップ @ ヘルシンキ
 #### 猫 シ Corp. - [2020] OASYS 博物館
 #### 猫 シ Corp. - [2020] Palm Mall Mars [Remastered]
+#### 猫 シ Corp. - [2021] [지오 프론트] v3​.​1
 #### 蜃気楼MIRAGE - [1998] 妄想 delusion
 #### 骷 - [2010] Skeleton
 #### 鬱 - [2020] ・過世的購物中心蕭條導瀉檔案完畢世界・  (Blue Album)
