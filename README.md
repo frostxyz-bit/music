@@ -1,6 +1,6 @@
 # albums and artists i may or may not enjoy
 ## (sorted alphabetically)
-## last updated: 6/26/2021
+## last updated: 7/8/2021
 #### 1-900-9099-CRY - [2018] 1-900-9099-KONBINI
 #### 2814 - [2015] 新しい日の誕生
 #### ABBA - [1992] Gold: Greatest Hits
