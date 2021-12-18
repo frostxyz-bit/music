@@ -1,6 +1,6 @@
 # albums and artists i may or may not enjoy
 ## (sorted alphabetically)
-## last updated: 11/26/2021
+## last updated: 12/18/2021
 #### 1-900-9099-CRY - [2018] 1-900-9099-KONBINI
 #### 18 Carat Affair - [2011] Vintage Romance
 #### 1000 Eyes - [2021] 1000 Eyes
@@ -16,6 +16,8 @@
 #### American Pleasure Club - [2018] A Whole Fucking Lifetime Of This
 #### Amine - [2017] Good For You
 #### Amine - [2018] REEL IT IN
+#### Andrew Wilson - [2021] Music of the Mythos - Volume One
+#### Andrew Wilson - Music of the Mythos - Volume One
 #### Android52 - [2019-01-15] Ultra Groove Product
 #### Aphex Twin - [1992] Selected Ambient Works 85-92
 #### Aphex Twin - [1994] Selected Ambient Works Volume II
@@ -32,6 +34,7 @@
 #### b e g o t t e n 自杀 - [2018] (phantom psalms) - 幻影诗篇
 #### b e g o t t e n 自杀 - [2019] (new aura) - 新时代
 #### b e g o t t e n 自杀, various artists - [2019] b e g o t t e n 自杀 - (Halloween Mixtape)
+#### Bart Graft - [2021] Light and Space
 #### Bauhaus - [1988-08-01] The Sky's Gone Out
 #### Billie Eilish - [2019] WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 #### Billie Eilish - [2021] Happier Than Ever
@@ -39,7 +42,13 @@
 #### bl00dwave - [2014] hotel vibes
 #### Bladee - [2018] Icedancer
 #### Bladee - [2018] Red Light
+#### Bladee - [2020] 333
+#### Bladee - [2020] EXETER
+#### Bladee - [2020-02-24] Girls just want to have fun
+#### Bladee - [2020-04-08] EXETER
+#### Bladee - [2021] The Fool
 #### Bladee, Ecco2k - [2020] Bladee & Ecco2k (Live)
+#### Bladee, Mechatok - [2021-05-11] Good Luck (Deluxe)
 #### Blank Banshee - [2012] Blank Banshee 0
 #### Blank Banshee - [2013] Blank Banshee 1
 #### Blues Brothers - [1978] Briefcase Full Of Blues
@@ -60,6 +69,7 @@
 #### Capoxxo, Oaf1, Dreamcache - [2020-04-18] Perfect (feat. Oaf1 & Dreamcache)
 #### Car Seat Headrest - [2016] Teens Of Denial
 #### Car Seat Headrest - [2018] Twin Fantasy
+#### Cartier God - [2019-08-23] Let Me Go (feat. Bladee)
 #### channel select - [2019] sails
 #### channel select - [2020] NEW AIR
 #### channel select - [2021] LIGHT MOVES
@@ -134,6 +144,7 @@
 #### dltzk - [2021-02-26] Teen Week
 #### Dorian Electra - [2020] My Agenda
 #### Dyro, Conro - [2021-05-21] Memory Bank
+#### ECCO2K - [2018] Beauty Sleep
 #### Ecco2k - [2019] E
 #### ECO VIRTUAL - [2013] ATMOSPHERES 第1
 #### ECO VIRTUAL - [2014] ATMOSPHERES 第2
@@ -145,6 +156,7 @@
 #### Ericdoa, Umru, Sebii, Angelus, kmoe, Lewis Grant, savepoint, Tony Velour, emotegi, d0llywood1, 4kmirage - [2020-11-04] movinglikeazombie (remix)
 #### ESPRIT 空想 - [2017] 200% Electronica
 #### ESPRIT 空想/George Clanton - [2014-05-06] Virtua.Zip
+#### EtheReal Media™ - [2021] Ｌｏｃａｌ Ｆｏｒｅｃａｓｔ EP
 #### ev.exi - [2019] Forget
 #### Ezekiel - [2020-04-08] ezekiel singles '18-'20
 #### FIRE-TOOLZ - [2018] Skinless X-1
@@ -241,6 +253,7 @@
 #### Limousine - [2020] ΩMEGA MALL X
 #### Lindsheaven Virtual Plaza - [2013] Daily Night Euphoria EP
 #### Lindsheaven Virtual Plaza - [2013] In Construction
+#### Lindsheaven Virtual Plaza - [2013] Nordwrong
 #### Lindsheaven Virtual Plaza - [2013] NTSC Memories
 #### Lindsheaven Virtual Plaza - [2020] Rainforest Hill (I + II)
 #### Löded Diper - [2021] Löded Diper
@@ -279,6 +292,7 @@
 #### N.W.A - [1999] Straight Outta Compton
 #### Nakaido "Chabo" Reichi - [1998] serial experiments lain Soundtrack
 #### Naked Flames - [2021] ?
+#### national network - [2021] night-time television service
 #### Negative XP - [2019-09-30] MSG, Vol. 1
 #### Neutral Milk Hotel - [1998] In the Aeroplane Over the Sea
 #### New Dreams Ltd. - [2014] Initiation Tape: Isle of Avalon Edition
@@ -372,6 +386,7 @@
 #### Sumatran Black - [2019] Elegy for a Lost Cosmonaut E.P
 #### SUPERSEX420 x TENDENCIES - [2019] Split EP (Deluxe)
 #### Syko - [2020-07-27] #BrooklynBloodPop!
+#### Sylveon - [2020] where there's smoke, they pinch back
 #### SZA - [2017] Ctrl
 #### t e l e p a t h テレパシー能力者 - [2014] 現実を超えて
 #### t e l e p a t h テレパシー能力者 - [2016] 一緒に別の夜
@@ -382,6 +397,7 @@
 #### Teen Suicide - [2015-10-07] i will be my own hell because there is a devil inside my body
 #### Temporal孤独 - [2019] Wander
 #### Temporal孤独 - [2020] Lost
+#### Thaiboy Digital - [2019-09-26] Legendary Member
 #### Thaiboy Digital, Bladee & Ecco2k - [2019] Trash Island
 #### The Beatles - [1973] 1967–1970
 #### The Beatles - [2009] Abbey Road (24 BIT Remastered)
@@ -405,6 +421,7 @@
 #### The Cure - [2005-04-26] Three Imaginary Boys
 #### The Cure - [2009] Disintegration (Deluxe Edition)
 #### The Fray - [2006-07-07] How To Save A Life
+#### The Jimi Hendrix Experience - [1967 /1997] Are You Experienced
 #### The Maccabees - [2007-04-16] Colour It In (Deluxe)
 #### The Marías - [2017-11-03] Superclean, Vol. I
 #### The Marías - [2018] Superclean Vol. II
@@ -430,6 +447,7 @@
 #### Vague002 - [2015-07-07] Girl Crying
 #### Vague002 - [2019-08-04] Terminal Aware
 #### VAPERROR - [2014-06-02] Mana Pool
+#### Varg - [2019] Evanescence (A Love Letter)
 #### Varg²™ - [07/15/2021] ?
 #### Various Artists - [2001] Disney's Greatest Volume 2
 #### Various Artists - [2006-03-13] The Incredibles Original Soundtrack
@@ -482,6 +500,7 @@
 #### 死亡頻道 - [2020] 超越灵魂
 #### 死夢VANITY - [2014] f a n t a s y 真夜中のアパート
 #### 沙漠里的沙子晚上很温暖 - [2019] Tomorrow, 2096
+#### 沙漠里的沙子晚上很温暖 - [2021] FLOOR—122
 #### 猫 シ Corp. - [2014] HIRAETH
 #### 猫 シ Corp. - [2014] Palm Mall
 #### 猫 シ Corp. - [2016] NEWS AT 11
